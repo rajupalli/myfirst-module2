@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @rajupalli
- Watch 1
-  Star 0
-  Fork 0 pgiannakopoulos/module4-solution
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
-Branch: gh-pages Find file Copy pathmodule4-solution/script.js
-98e4eb2  2 days ago
-@pgiannakopoulos pgiannakopoulos Add files via upload
-1 contributor
-RawBlameHistory     
-71 lines (60 sloc)  2.3 KB
 // *******************************
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
@@ -83,5 +66,3 @@ WARNING!!! WARNING!!!
   }
 
 })();
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
